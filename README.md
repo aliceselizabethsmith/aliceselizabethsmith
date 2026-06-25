@@ -1,6 +1,6 @@
 ## Alice Elizabeth Smith
 
-Enterprise Intelligence Developer building data and AI tools for manufacturing. In my off-time I dabble in building artistic applications that sometimes serve a function.
+Enterprise Intelligence Developer building data and AI tools for manufacturing. Also dabbling in artistic solutions for common tasks.
 
 Over 10 years in manufacturing ERP and BI (Epicor Kinetic, SQL, C#/.NET, dashboards), now focused on AI-assisted development and agent design.
 
