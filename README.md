@@ -9,3 +9,4 @@ Over 10 years in manufacturing ERP and BI (Epicor Kinetic, SQL, C#/.NET, dashboa
 - Apps & backend: Python, C#/.NET 8 (WPF, EF Core), PowerShell
 - AI: Claude-based agents, prompt engineering, MCP integrations, multi-agent workflows
 - Enterprise: ERP implementation, EDI, data governance, ITIL change management
+
