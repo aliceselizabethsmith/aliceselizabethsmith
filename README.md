@@ -1,6 +1,6 @@
 ## Alice Elizabeth Smith
 
-Founder of [Eala AI](https://askeala.com). I build **Ask Eala**, conversational analytics that installs on a manufacturer's own server and answers plain-English questions from their SQL Server data with SQL that is safe to run, a chart, and a written answer.
+I build **[Ask Eala](https://askeala.com)**, a project of mine: conversational analytics that installs on a manufacturer's own server and answers plain-English questions from their SQL Server data with SQL that is safe to run, a chart, and a written answer.
 
 Ten years in manufacturing ERP and BI (Epicor Kinetic, SQL Server, C#/.NET), now building Claude agents.
 
